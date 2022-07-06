@@ -1,6 +1,6 @@
 .viñetaGeneral{
     width: 1700px;
-    height: 1800px;
+    height: auto;
     border: solid 3px rgb(0, 0, 0);
     margin: auto;
 }
@@ -14,10 +14,10 @@ h1 {
     font-size: 60px;
     font-family:'Courier New', Courier, monospace;
 }
-.viñetaImagen{
+.viñetaImagenEnnis{
     text-align: center;
 }
-.foto {
+.foto-1 {
     width: 1600px;
     height: 600px;
     border: solid 3px rgb(0, 0, 0);
@@ -55,14 +55,36 @@ h1 {
     text-align: center;
 }
 .viñetaMusic{
-    width: 400px;
+    width: 500px;
+    height: auto;
+    margin: 10px 50px;
+    border: solid 3px rgb(0, 0, 0);
+    box-shadow: 5px 5px 5px 2px;  
+    display: inline-block;
+}
+.tituloMusic{
+    text-align: center;
+}
+.viñetaFormulario{
+    width: 500px;
     height: auto;
     margin: 10px 48px;
     border: solid 3px rgb(0, 0, 0);
-    box-shadow: 5px 5px 5px 2px;  
+    box-shadow: 5px 5px 5px 2px; 
 }
-.music{
+.tituloFormulario{
     text-align: center;
 }
+.posicionFormulario{
+    margin: 10px 20px;
+}
 
+.foto-2{
+    width: 1000px;
+    height: 400px;
+    position: absolute;
+    object-fit: scale-down;
+    object-position: right;
+    margin: -420px 650px;
+}
 /* plantear viñetas como si fuera un comic/*
