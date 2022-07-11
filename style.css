@@ -1,11 +1,11 @@
 .viñetaGeneral{
-    width: 1700px;
+    width: 1400px;
     height: auto;
     border: solid 3px rgb(0, 0, 0);
     margin: auto;
 }
 h1 {
-    width: 1600px;
+    width: 1300px;
     height: auto;
     border: solid 3px rgb(0, 0, 0);
     box-shadow: 5px 5px 5px 2px;
@@ -18,14 +18,14 @@ h1 {
     text-align: center;
 }
 .foto-1 {
-    width: 1600px;
+    width: 1300px;
     height: 600px;
     border: solid 3px rgb(0, 0, 0);
     object-fit: contain;
     box-shadow: 5px 5px 5px 2px;
 }
 .viñetaDatosPersonales{
-    width: 500px;
+    width: 400px;
     height: 120px;
     border: solid 3px rgb(0, 0, 0);
     box-shadow: 5px 5px 5px 2px;
@@ -35,7 +35,7 @@ h1 {
     text-align: center;
 }
 .viñetaSobreMi{
-    width: 1000px;
+    width: 800px;
     height: 130px;
     margin: 20px 40px;
     display: inline-block;
@@ -44,7 +44,7 @@ h1 {
     text-align: center;
 }
 .viñetaSeries{
-    width: 300px;
+    width: 400px;
     height: auto;
     border: solid 3px rgb(0, 0, 0);
     box-shadow: 5px 5px 5px 2px;
@@ -55,9 +55,10 @@ h1 {
     text-align: center;
 }
 .viñetaMusic{
-    width: 500px;
+    width: 600px;
     height: auto;
-    margin: 10px 50px;
+    position: absolute;
+    margin: 10px 150px;
     border: solid 3px rgb(0, 0, 0);
     box-shadow: 5px 5px 5px 2px;  
     display: inline-block;
@@ -81,10 +82,10 @@ h1 {
 
 .foto-2{
     width: 1000px;
-    height: 400px;
+    height: 500px;
     position: absolute;
     object-fit: scale-down;
     object-position: right;
-    margin: -420px 650px;
+    margin: -510px 350px;
 }
 /* plantear viñetas como si fuera un comic/*
