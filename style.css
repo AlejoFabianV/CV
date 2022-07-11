@@ -58,7 +58,7 @@ h1 {
     width: 600px;
     height: auto;
     position: absolute;
-    margin: 10px 150px;
+    margin: 10px 245px;
     border: solid 3px rgb(0, 0, 0);
     box-shadow: 5px 5px 5px 2px;  
     display: inline-block;
@@ -87,5 +87,13 @@ h1 {
     object-fit: scale-down;
     object-position: right;
     margin: -510px 350px;
+}
+.foto-3{
+    width: 450px;
+    height: 250px;
+    position: absolute;
+    object-fit: scale-down;
+    object-position: center;
+    margin: -710px 370px;
 }
 /* plantear viñetas como si fuera un comic/*
