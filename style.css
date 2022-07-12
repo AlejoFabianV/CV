@@ -13,7 +13,7 @@ h1 {
     margin: 20px auto;
     text-align: center;
     font-size: 60px;
-    font-family:'Courier New', Courier, monospace;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .viñetaImagenEnnis{
     text-align: center;
@@ -34,6 +34,7 @@ h1 {
     padding-top: 12px;
     display: inline-block;
     text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .viñetaSobreMi{
     width: 800px;
@@ -43,6 +44,7 @@ h1 {
     border: solid 3px rgb(0, 0, 0);
     box-shadow: 5px 5px 5px 2px;
     text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .viñetaSeries{
     width: 400px;
@@ -51,6 +53,7 @@ h1 {
     box-shadow: 5px 5px 5px 2px;
     margin: 10px 48px;
     display: inline-block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .tituloSerie{
     text-align: center;
@@ -63,6 +66,7 @@ h1 {
     border: solid 3px rgb(0, 0, 0);
     box-shadow: 5px 5px 5px 2px;  
     display: inline-block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .tituloMusic{
     text-align: center;
@@ -76,9 +80,11 @@ h1 {
 }
 .tituloFormulario{
     text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .posicionFormulario{
     margin: 10px 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .foto-2{
@@ -96,5 +102,24 @@ h1 {
     object-fit: scale-down;
     object-position: center;
     margin: -710px 370px;
+}
+.botonFlechaR, .botonFlechaL{
+    position: absolute;
+    width: auto;
+    height: auto;
+}
+button{
+    border: none;
+    background-color: white;
+}
+.flechaRight, .flechaLeft{
+    width: 50px;
+    height: auto; 
+}
+.botonFlechaR{
+    margin: -900px 1416px;
+}
+.botonFlechaL{
+    margin: -900px -78px;
 }
 /* plantear viñetas como si fuera un comic/*
