@@ -15,95 +15,8 @@ h1 {
     font-size: 60px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-.viñetaImagenEnnis{
-    text-align: center;
-}
-.foto-1 {
-    width: 1300px;
-    height: 600px;
-    border: solid 3px rgb(0, 0, 0);
-    object-fit: contain;
-    box-shadow: 5px 5px 5px 2px;
-}
-.viñetaDatosPersonales{
-    width: 400px;
-    height: 120px;
-    border: solid 3px rgb(0, 0, 0);
-    box-shadow: 5px 5px 5px 2px;
-    margin: 20px 48px;
-    padding-top: 12px;
-    display: inline-block;
-    text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-.viñetaSobreMi{
-    width: 800px;
-    height: 130px;
-    margin: 20px 40px;
-    display: inline-block;
-    border: solid 3px rgb(0, 0, 0);
-    box-shadow: 5px 5px 5px 2px;
-    text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-.viñetaSeries{
-    width: 400px;
-    height: auto;
-    border: solid 3px rgb(0, 0, 0);
-    box-shadow: 5px 5px 5px 2px;
-    margin: 10px 48px;
-    display: inline-block;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-.tituloSerie{
-    text-align: center;
-}
-.viñetaMusic{
-    width: 600px;
-    height: auto;
-    position: absolute;
-    margin: 10px 245px;
-    border: solid 3px rgb(0, 0, 0);
-    box-shadow: 5px 5px 5px 2px;  
-    display: inline-block;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-.tituloMusic{
-    text-align: center;
-}
-.viñetaFormulario{
-    width: 500px;
-    height: auto;
-    margin: 10px 48px;
-    border: solid 3px rgb(0, 0, 0);
-    box-shadow: 5px 5px 5px 2px; 
-}
-.tituloFormulario{
-    text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-.posicionFormulario{
-    margin: 10px 20px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
 
-.foto-2{
-    width: 1000px;
-    height: 500px;
-    position: absolute;
-    object-fit: scale-down;
-    object-position: right;
-    margin: -510px 350px;
-}
-.foto-3{
-    width: 450px;
-    height: 250px;
-    position: absolute;
-    object-fit: scale-down;
-    object-position: center;
-    margin: -710px 370px;
-}
-.botonFlechaR, .botonFlechaL{
+.botonFlechaR{
     position: absolute;
     width: auto;
     height: auto;
@@ -112,14 +25,10 @@ button{
     border: none;
     background-color: white;
 }
-.flechaRight, .flechaLeft{
+.flechaRight{
     width: 50px;
     height: auto; 
 }
 .botonFlechaR{
-    margin: -900px 1416px;
+    margin: 570px 1416px;
 }
-.botonFlechaL{
-    margin: -902px -80px;
-}
-/* plantear viñetas como si fuera un comic/*
