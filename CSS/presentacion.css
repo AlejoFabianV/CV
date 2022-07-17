@@ -1,21 +1,13 @@
 .viñetaGeneral{
     width: 1400px;
-    height: 1600px;
+    height: 1550px;
     border: solid 3px rgb(0, 0, 0);
     box-shadow: 0px 0px 8px 5px;
     margin: auto;
 }
-h1 {
-    width: 1300px;
-    height: auto;
-    border: solid 3px rgb(0, 0, 0);
-    box-shadow: 5px 5px 5px 2px;
-    margin: 20px auto;
-    text-align: center;
-    font-size: 60px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
+
 .viñetaImagenEnnis{
+    margin: 20px 0;
     text-align: center;
 }
 .foto-1 {
