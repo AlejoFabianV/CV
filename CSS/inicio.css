@@ -6,13 +6,9 @@
     margin: auto;
 }
 h1 {
-    width: 1300px;
-    height: auto;
-    border: solid 3px rgb(0, 0, 0);
-    box-shadow: 5px 5px 5px 2px;
-    margin: 20px auto;
+    margin: 400px;
     text-align: center;
-    font-size: 60px;
+    font-size: 100px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -30,5 +26,12 @@ button{
     height: auto; 
 }
 .botonFlechaR{
-    margin: 500px 1416px;
+    margin: -420px 1416px;
+}
+.foto-1{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    position: absolute;
+    margin: -150px -1150px;
 }
